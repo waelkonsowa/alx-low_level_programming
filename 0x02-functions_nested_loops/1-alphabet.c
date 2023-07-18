@@ -3,7 +3,10 @@
 /**
  * print_alphabet 
  *
- */
+ * Description: print alphabets a-z
+ *
+ * returns: void
+*/
 
 void print_alphabet(void)
 {
