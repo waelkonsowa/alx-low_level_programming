@@ -7,7 +7,8 @@
  *
  * return: null
  *
- *
+ */
+
 int main(void)
 {
 	int myrand;
